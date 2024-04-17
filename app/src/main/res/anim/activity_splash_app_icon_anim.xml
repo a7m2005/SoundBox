@@ -1,0 +1,10 @@
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+    <alpha
+        android:fromAlpha="0.25"
+        android:toAlpha="1" />
+    <scale
+        android:fromXScale="0.3"
+        android:fromYScale="0.3"
+        android:toXScale="1"
+        android:toYScale="1" />
+</set>
